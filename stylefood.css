@@ -44,3 +44,7 @@ h3{font-size: 25px;}
 .center{
     text-align: center;
 }
+#footer-bg{
+    background-color: black;
+    color: white;
+}
