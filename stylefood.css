@@ -9,6 +9,8 @@ body{
 }
 h1{
     font-size: 50px;
+    font-family: cursive;
+    font-weight: 700;
     }
 .orange{
     color: orange;
@@ -39,18 +41,15 @@ h3{font-size: 25px;}
 }
 
 .first-section{
-    background-image: url(images/frame12.png);
+    background-image: url(images/picfr12\ \(2\).png);
     background-repeat: no-repeat;
 }
 .second-section{
-    background-image: url(images/picfr12.png);
+    background-image: url(images/picfr12\ \(3\).png);
     background-repeat: no-repeat;
 }
 .center{
     text-align: center;
-}
-.pdbt{
-    padding-bottom: 150px;
 }
 #footer-bg{
     background-color: black;
@@ -71,4 +70,10 @@ h3{font-size: 25px;}
 }
 #bd-r{
     border-radius: 20px;
+}
+.shadow{
+    width: 40%;
+    padding: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
