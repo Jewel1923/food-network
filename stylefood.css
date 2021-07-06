@@ -77,3 +77,8 @@ h3{font-size: 25px;}
     margin-left: 5%;
     margin-right: 5%;
 }
+.inline{display: inline-flex;}
+.equi{
+    width: 10%;
+    padding: 2px;
+}
