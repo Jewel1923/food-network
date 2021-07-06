@@ -41,3 +41,6 @@ h3{font-size: 25px;}
     background-image: url(images/picfr12.png);
     background-repeat: no-repeat;
 }
+.center{
+    text-align: center;
+}
